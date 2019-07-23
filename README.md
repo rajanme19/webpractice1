@@ -1,0 +1,1 @@
+## This is the simple practice project on development of web applications
